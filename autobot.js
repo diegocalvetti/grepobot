@@ -1,7 +1,7 @@
 var Autobot = {
     title: 'Autobot',
     version: '3.1',
-    domain: window['location']['protocol'] + '//bot.grepobot.com/',
+    domain: 'https://raw.githubusercontent.com/diegocalvetti/grepobot/refs/heads/main/',
     botWnd: '',
     botPremWnd: '',
     botEmailWnd: '',
